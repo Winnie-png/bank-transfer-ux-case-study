@@ -36,6 +36,11 @@ Gives the user one last chance to confirm the recipient and amount before sendin
 Transfer Status
 Separates successful, pending, and failed states so the user knows what happened and what to do next.
 
+View the Designs
+
+- "Low-Fidelity Wireframes — Figma" (https://www.figma.com/design/v4E3Q8W6pU8jIDAD8Y6GJx/Pesa-Bank--Transfer-Confidence--UX-UI-Capstone-?node-id=1-4)
+- "Additional Canvas View — Figma" (https://www.figma.com/design/v4E3Q8W6pU8jIDAD8Y6GJx?node-id=1-5)
+
 Design Principle
 
 I decided what information to show based on what the user needs to complete the task confidently.
